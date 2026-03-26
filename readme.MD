@@ -22,11 +22,3 @@
 3. **Web Redirection**: Browser akan otomatis membuka URL **Room3D** yang memuat data visual villa tersebut.
 4. **Virtual Discovery**: Pengguna dapat mulai menjelajahi interior, melihat furniture, hingga denah bangunan secara mendetail.
 
----
-
-## 🚀 Teknologi yang Digunakan
-
-- **Frontend**: HTML5, CSS3, JavaScript (atau sebutkan frameworkmu seperti React/Vue).
-- **3D Rendering**: Three.js / WebGL (jika menggunakan library 3D).
-- **Hosting**: [Sebutkan: GitHub Pages / Netlify].
-- **Deployment**: CI/CD terintegrasi untuk pembaruan data villa yang cepat.
